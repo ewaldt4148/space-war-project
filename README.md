@@ -1,6 +1,6 @@
 ## Welcome to Bye Bye Birdie
 
-You can use the [editor on GitHub](https://github.com/ewaldt4148/space-war-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the newsest action packed game that is taking storm! 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
