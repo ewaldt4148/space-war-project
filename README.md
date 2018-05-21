@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bye Bye Birdie
 
 You can use the [editor on GitHub](https://github.com/ewaldt4148/space-war-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
