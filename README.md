@@ -1,6 +1,6 @@
 ## Welcome to Bye Bye Birdie
 
-![alt text](https://github.com/ewaldt4148/space-war-project/blob/master/space-war/assets/images/cat_start_screen.png"Coops the Cat")
+![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/cat_start_screen.png"Coops the Cat")
 
 This is the newsest action packed game that is taking storm! 
 
