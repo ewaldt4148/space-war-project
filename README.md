@@ -10,4 +10,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This new game features Coops the cat who is fed up with the pestering birds always messing up his day. Help him on his quest to say "bye-bye" to those birds with the little help of his friendly gun.  
 
+### How to play.
 
+1. To play this game you will use the right and left arrow keys to move Coops.
+
+2. To shoot you will press the SPACE button. BUt be careful with your shots, there is a cool down after each shot
+
+3. There are designed levels for Coops to battle through. The first two stages start off with just one enemy bird.
+
+
+   as the stages are cleared more birds are added. Untill there are no more birds left to add.
+   
+   
