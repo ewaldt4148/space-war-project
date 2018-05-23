@@ -22,3 +22,8 @@ This new game features Coops the cat who is fed up with the pestering birds alwa
    as the stages are cleared more birds are added. Untill there are no more birds left to add.
    
    
+### Characters
+
+**Coops The Cat**    ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/cat_start_screen_glasses.png "Coops")
+
+**Cassidy the Catnip Carrier**  ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/fairy1.png "Cassidy")
