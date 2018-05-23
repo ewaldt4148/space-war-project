@@ -24,6 +24,8 @@ This new game features Coops the cat who is fed up with the pestering birds alwa
    
 ### Characters
 
-**Coops The Cat**    ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/cat_start_screen_glasses.png "Coops")
+**Coops The Cat**    ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/cat_start_screen_glasses.png "Coops")                  The star of the show. You. 
 
-**Cassidy the Catnip Carrier**  ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/fairy1.png "Cassidy")
+
+
+**Cassidy the Catnip Carrier**  ![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/fairy1.png "Cassidy")                    Drops catnip that can increase Coops speed but slows down your reload rate.
