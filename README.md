@@ -13,11 +13,11 @@ This new game features Coops the cat who is fed up with the pestering birds alwa
 ### How to play.
 
 1. To play this game you will use the right and left arrow keys to move Coops.
-
+![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/start_screen.PNG "Start Screen")
 2. To shoot you will press the SPACE button. BUt be careful with your shots, there is a cool down after each shot
-
+![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/first_level.PNG "First Level")
 3. There are designed levels for Coops to battle through. The first two stages start off with just one enemy bird.
-
+![alt text](https://raw.githubusercontent.com/ewaldt4148/space-war-project/master/space-war/assets/images/level%20high.PNG "Ending Level")
 
    as the stages are cleared more birds are added. Untill there are no more birds left to add.
    
