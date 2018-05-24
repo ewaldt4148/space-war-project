@@ -19,6 +19,7 @@ START = 0
 PLAYING = 1
 LOSE = 2
 WIN = 3
+WIN_GAME = 4
 # Timer
 clock = pygame.time.Clock()
 refresh_rate = 60
@@ -441,6 +442,15 @@ def win():
     text2 = font1.render("(Press SPACE to continue.)", True, WHITE)
     screen.blit(text2, [210, 500])
 
+
+def win_game():
+    screen.fill(BLACK)
+    font1 = pygame.font.Font(None, 48)
+    text = font1.render("Stage Cleared!", 1, RED)
+    screen.blit(text, [400, 200])
+    text2 = font1.render("(Press SPACE to continue.)", True, WHITE)
+    screen.blit(text2, [210, 500])
+
 def lose():
     screen.fill(BLACK)
     font1 = pygame.font.Font(None, 48)
@@ -516,6 +526,8 @@ while not done:
 
         if fleet.is_empty():
             stage = WIN
+        if fleet.is_empty() and level >= 6 :
+            stage = WIN_GAME
         if ship.is_dead():
             stage = LOSE
             
@@ -540,6 +552,8 @@ while not done:
         show_stats(player)
     if stage == WIN:
         win()
+    if stage == WIN_GAME:
+        win_game()
     if stage == LOSE:
         lose()
     
