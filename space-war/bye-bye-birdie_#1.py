@@ -446,9 +446,9 @@ def win():
 def win_game():
     screen.fill(BLACK)
     font1 = pygame.font.Font(None, 48)
-    text = font1.render("Stage Cleared!", 1, RED)
+    text = font1.render("You win!", 1, RED)
     screen.blit(text, [400, 200])
-    text2 = font1.render("(Press SPACE to continue.)", True, WHITE)
+    text2 = font1.render("(Press SPACE to restart.)", True, WHITE)
     screen.blit(text2, [210, 500])
 
 def lose():
@@ -456,7 +456,7 @@ def lose():
     font1 = pygame.font.Font(None, 48)
     text = font1.render("Game Over!", 1, RED)
     screen.blit(text, [400, 200])
-    text2 = font1.render("(Press SPACE to continue.)", True, WHITE)
+    text2 = font1.render("(Press SPACE to restart.)", True, WHITE)
     screen.blit(text2, [210, 500])
     
 
@@ -491,6 +491,11 @@ while not done:
                     stage = START
                     reset_player()
                     reset_mobs()
+            if stage == WIN_GAME:
+                if event.key == pygame.K_SPACE:
+                    stage = START
+                    reset_player()
+                    reset_mobs()                    
             if stage == WIN:
                 if event.key == pygame.K_SPACE:
                     stage = PLAYING
