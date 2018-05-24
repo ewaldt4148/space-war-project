@@ -4,7 +4,6 @@
 
 This is the newsest action packed game that is taking storm! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### What's the rave?
 
